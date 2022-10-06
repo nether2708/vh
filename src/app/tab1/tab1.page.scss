@@ -1,0 +1,45 @@
+body
+{
+    margin: 0;
+    padding: 0;
+}
+.top
+{
+    height: 220px;
+    width: 400px;
+    background-color: orange;
+    border-radius: 20px;
+    margin: auto;
+
+}
+.img
+{
+    margin:auto;
+    height: 50px;
+    width: 100px;
+}
+.mid
+{
+    padding: 25px;
+    height: 100px;
+    width: 450px;
+    margin: auto;
+}
+.bot
+{
+    margin: auto;
+    height: 100px;
+    width: 410px;
+    padding-top: 10px;
+}
+ion-button
+{
+    font-size: 17px;
+    height: 50px;
+    width: 400px;
+    --background: white;
+    --color: orange;
+    --border-radius: 10px;
+    --border-color: orange;
+    --border-width: 2px;
+}
